@@ -1,0 +1,105 @@
+/* header */
+#header{
+  height:50px;
+  width:900px;
+  background-color: #996600;
+}
+
+/* table */
+#table{
+  width: 900px;
+  align-content: center;
+}
+.row_width_1{
+  width:150px;
+}
+.row_width_2{
+  width:300px;
+}
+
+/* table and table cells*/
+.foto{
+  height:200px;
+  width: 300px;
+}
+#Mierensoort{
+  background-color: #CC9966;
+}
+#Foto_van_soort{
+  background-color: #CC9933;
+}
+#Soort_nest{
+  background-color: #993333;
+  }
+  #Habitat{
+    background-color: #666666;
+  }
+#soort_1{
+  background-color: #666666;
+}
+#foto_1{
+  background-color: #CC3366;
+}
+#nest_1{
+  background-color: #999900;
+}
+#habitat_1{
+  background-color: #0099CC;
+}
+#soort_2{
+  background-color: #336666;
+}
+#foto_2{
+  background-color: #CC6666;
+}
+#nest_2{
+  background-color: #660066;
+}
+#habitat_2{
+  background-color: #003399;
+}
+#soort_3{
+  background-color: #336633;
+}
+#foto_3{
+  background-color: #6699CC;
+}
+#nest_3{
+  background-color: #9900CC;
+}
+#habitat_3{
+  background-color: #6600FF;
+}
+
+/* table word background color */
+#mierensoort{
+  background-color: #99CCCC;
+}
+#soort_nest{
+  background-color: #FFCC99;
+}
+#rode_bosmier{
+  background-color: #339999;
+}
+#koepelnest{
+  background-color: #CCCC66;
+}
+#gele_weidemier{
+  background-color: #99FF99;
+}
+#bodemnest{
+  background-color: #CC6666;
+}
+#glanzende_houtmier{
+  background-color: #00CCCC;
+}
+#boom{
+  background-color: #FF99FF;
+}
+
+/* footer */
+#footer{
+  height:25px;
+  width:900px;
+  background-color: #3399FF;
+}
